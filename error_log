@@ -1,0 +1,253 @@
+[14-Aug-2020 06:09:59 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 06:10:03 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 06:10:09 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:30:54 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:31:12 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:33:12 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:33:58 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:39:46 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:42:18 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:42:30 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:42:41 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:42:48 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:42:54 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:47:48 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:47:50 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:47:55 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:49:59 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:51:16 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:51:17 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:52:32 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:52:33 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:52:59 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:55:19 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(68): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:57:34 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(68): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 07:57:35 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(68): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 08:01:46 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 08:03:19 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:135
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 135
+[14-Aug-2020 08:06:35 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:136
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 136
+[14-Aug-2020 08:06:44 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:136
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 136
+[14-Aug-2020 08:07:11 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:136
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(91): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 136
+[14-Aug-2020 08:07:12 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:136
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(91): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 136
+[14-Aug-2020 08:07:43 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:136
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 136
+[14-Aug-2020 08:17:37 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:136
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 136
+[14-Aug-2020 08:17:38 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:136
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 136
+[14-Aug-2020 08:18:07 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Framework\Routing\Routing::getURL() must be of the type string, null returned in /home/clababuadedu/public_html/libs/Engine/Routing.class.php:136
+Stack trace:
+#0 /home/clababuadedu/public_html/libs/Engine/Routing.class.php(90): Framework\Routing\Routing->getURL()
+#1 /home/clababuadedu/public_html/routers/AppRouter.php(67): Framework\Routing\Routing->navigate()
+#2 /home/clababuadedu/public_html/index.php(23): Application\Router\AppRouter->__construct()
+#3 {main}
+  thrown in /home/clababuadedu/public_html/libs/Engine/Routing.class.php on line 136
+[14-Aug-2020 08:51:13 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/clababuadedu/public_html/libs/Engine/RouterRequest.class.php on line 42
+[14-Aug-2020 08:51:17 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/clababuadedu/public_html/libs/Engine/RouterRequest.class.php on line 42
+[14-Aug-2020 08:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/clababuadedu/public_html/libs/Engine/RouterRequest.class.php:147) in /home/clababuadedu/public_html/libs/errorHandler.php on line 90
+[14-Aug-2020 08:53:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/clababuadedu/public_html/libs/Engine/RouterRequest.class.php:147) in /home/clababuadedu/public_html/libs/errorHandler.php on line 90
+[14-Aug-2020 08:56:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/clababuadedu/public_html/libs/Engine/RouterRequest.class.php:147) in /home/clababuadedu/public_html/libs/errorHandler.php on line 90
+[19-Aug-2020 16:53:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/clababuadedu/public_html/controllers/ProductController.php:92) in /home/clababuadedu/public_html/libs/errorHandler.php on line 90
+[19-Aug-2020 16:56:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/clababuadedu/public_html/libs/Engine/Model.class.php:413) in /home/clababuadedu/public_html/libs/errorHandler.php on line 90
+[19-Aug-2020 17:05:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/clababuadedu/public_html/libs/Engine/Model.class.php:419) in /home/clababuadedu/public_html/libs/errorHandler.php on line 90
